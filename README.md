@@ -15,7 +15,7 @@
 <p>
 Then a Super Admin Will be created<br> 
 ID : superadmin@gmail.com <br>
-phone : 01731587548<br>
+phone : 01700000000<br>
 pass : 1234<br>
 </p>    
 </body>
