@@ -1,13 +1,23 @@
-# Fresh_Laravel_Project_with_role_admin_lte
- A fresh laravel 8 project with Role , Admin LTE
- 
- 
- \nCommands to Run the Project
-\n-php artisan migrate
-\n-php artisan db:seed --class=PermissionTableSeeder
-\n-php artisan db:seed --class=CreateAdminUserSeeder
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fresh_Laravel_Project_with_role_admin_lte</title>
+</head>
+<body>
 
-\nThen a Super Admin Will be created . 
-\nID : superadmin@gmail.com
-\nphone : 01731587548
-\npass : 1234
+<h1 style="color:red">A fresh laravel 8 project with Role , Admin LTE</h1>
+<h3 style="color:blue">Commads to run the project</h1>    
+<ul>
+  <li>composer install</li>
+  <li>php artisan migrate</li>
+  <li>php artisan db:seed --class=PermissionTableSeeder</li>
+  <li>php artisan db:seed --class=CreateAdminUserSeeder</li>
+</ul>
+<p>
+    Then a Super Admin Will be created . 
+ID : superadmin@gmail.com <br>
+phone : 01731587548<br>
+pass : 1234<br>
+</p>    
+</body>
+</html>
