@@ -34,6 +34,7 @@ class DashboardController extends Controller
 
 
         if (!file_exists(storage_path().'/app/public/uploaded_photo/user_photo/')) {
+            echo "Return Hello";
             mkdir(storage_path().'/app/public/uploaded_photo/user_photo/', 0777, true);
         }
 
